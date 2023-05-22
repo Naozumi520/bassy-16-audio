@@ -843,8 +843,8 @@
 					<dict>
 						<key>data</key>
 						<data>
-						AAAAAAAAAAAAAAAIAAAAAECJmZoA
-						AAABQImZmgAAAAIAAAAAAAAAAwAA
+						AAAAAAAAAAAAAAAIAAAAAECgAAAA
+						AAABQKAAAAAAAAIAAAAAAAAAAwAA
 						AAAAAAAEAAAAAAAAAAUAAAAAAAAA
 						BgAAAAAAAAAHAAAAAAAAAAQAAAAA
 						AAAAAQAAAAAAAAAAAAAABAAAAAEA
@@ -1222,11 +1222,11 @@
 					<key>aupreset</key>
 					<dict>
 						<key>classname</key>
-						<string>ChannelJoiner</string>
+						<string>NonFiniteProtectionBox</string>
 						<key>manufacturer</key>
 						<integer>1633841016</integer>
 						<key>subtype</key>
-						<integer>1667787374</integer>
+						<integer>1852206704</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 						<key>version</key>
@@ -1235,13 +1235,65 @@
 					<key>bypass</key>
 					<integer>0</integer>
 					<key>displayname</key>
-					<string>RefJoin</string>
+					<string>NFP</string>
 					<key>unit</key>
 					<dict>
 						<key>manufacturer</key>
 						<integer>1633841016</integer>
 						<key>subtype</key>
-						<integer>1667787374</integer>
+						<integer>1852206704</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>aupreset</key>
+					<dict>
+						<key>DefaultAudioChannelLayout</key>
+						<integer>4294901760</integer>
+						<key>data</key>
+						<data>
+						AAAAAAAAAAAAAAAuAAAAAD+AAAAA
+						AAABAAAAAAAAAALBQAAAAAAAA0BA
+						AAAAAAAEQKAAAAAAAAVBGAAAAAAA
+						BkBAAAAAAAAHQAAAAAAAAAhAAAAA
+						AAAACUEQAAAAAAAKP4AAAAAAAAtC
+						jAAAAAAADEFQAAAAAAANQAAAAAAA
+						AA5CIAAAAAAADwAAAAAAAAAQwSAA
+						AAAAABFAb9KwAAAAEkE4mGQAAAAT
+						AAAAAAAAABRBGzG4AAAAFUCrrJgA
+						AAAWwSAAAAAAABdBP//4AAAAGD+A
+						AAAAAAAZAAAAAAAAABpBP//4AAAA
+						Gz+AAAAAAAAcwaAAAAAAAB1BAAAA
+						AAAAHgAAAAAAAAAfP4AAAAAAACAA
+						AAAAAAAAIQAAAAAAAAAiAAAAAAAA
+						ACMAAAAAAAAAJAAAAAAAAAAlAAAA
+						AAAAACY/gAAAAAAAJwAAAAAAAAAo
+						AAAAAAAAAClGnEAAAAAAKgAAAAAA
+						AAArAAAAAAAAACwAAAAAc3ZvbAAA
+						AAA=
+						</data>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>name</key>
+						<string>AULNRB</string>
+						<key>subtype</key>
+						<integer>1818521197</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+						<key>version</key>
+						<integer>0</integer>
+					</dict>
+					<key>bypass</key>
+					<integer>0</integer>
+					<key>displayname</key>
+					<string>Norm</string>
+					<key>unit</key>
+					<dict>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>subtype</key>
+						<integer>1818521197</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 					</dict>
@@ -1250,11 +1302,16 @@
 					<key>aupreset</key>
 					<dict>
 						<key>classname</key>
-						<string>ChannelSplitter</string>
+						<string>dbgain</string>
+						<key>data</key>
+						<data>
+						AAAAAAAAAAAAAAACAAAAAAAAAAAA
+						AAABAAAAAA==
+						</data>
 						<key>manufacturer</key>
 						<integer>1633841016</integer>
 						<key>subtype</key>
-						<integer>1667789680</integer>
+						<integer>1684170606</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 						<key>version</key>
@@ -1263,13 +1320,13 @@
 					<key>bypass</key>
 					<integer>0</integer>
 					<key>displayname</key>
-					<string>RefSplit</string>
+					<string>Ramp</string>
 					<key>unit</key>
 					<dict>
 						<key>manufacturer</key>
 						<integer>1633841016</integer>
 						<key>subtype</key>
-						<integer>1667789680</integer>
+						<integer>1684170606</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 					</dict>
@@ -1297,39 +1354,6 @@
 					<integer>0</integer>
 					<key>displayname</key>
 					<string>RightBalance</string>
-					<key>unit</key>
-					<dict>
-						<key>manufacturer</key>
-						<integer>1633841016</integer>
-						<key>subtype</key>
-						<integer>1684170606</integer>
-						<key>type</key>
-						<integer>1635083896</integer>
-					</dict>
-				</dict>
-				<dict>
-					<key>aupreset</key>
-					<dict>
-						<key>classname</key>
-						<string>dbgain</string>
-						<key>data</key>
-						<data>
-						AAAAAAAAAAAAAAACAAAAAAAAAAAA
-						AAABAAAAAA==
-						</data>
-						<key>manufacturer</key>
-						<integer>1633841016</integer>
-						<key>subtype</key>
-						<integer>1684170606</integer>
-						<key>type</key>
-						<integer>1635083896</integer>
-						<key>version</key>
-						<integer>0</integer>
-					</dict>
-					<key>bypass</key>
-					<integer>0</integer>
-					<key>displayname</key>
-					<string>RightGain</string>
 					<key>unit</key>
 					<dict>
 						<key>manufacturer</key>
@@ -1590,6 +1614,34 @@
 				<dict>
 					<key>aupreset</key>
 					<dict>
+						<key>classname</key>
+						<string>ChannelSplitter</string>
+						<key>manufacturer</key>
+						<integer>1633841016</integer>
+						<key>subtype</key>
+						<integer>1667789680</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+						<key>version</key>
+						<integer>0</integer>
+					</dict>
+					<key>bypass</key>
+					<integer>0</integer>
+					<key>displayname</key>
+					<string>SplitMain</string>
+					<key>unit</key>
+					<dict>
+						<key>manufacturer</key>
+						<integer>1633841016</integer>
+						<key>subtype</key>
+						<integer>1667789680</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>aupreset</key>
+					<dict>
 						<key>DefaultAudioChannelLayout</key>
 						<integer>4294901760</integer>
 						<key>data</key>
@@ -1597,24 +1649,24 @@
 						AAAAAAAAAAAAAAJoAAAAAAAAAAAA
 						AAABAAAAAAAAAAIAAAAAAAAAAz+A
 						AAAAAAAEAAAAAAAAAAVBIAAAAAAA
-						BkBAAAAAAAAHPhmZmgAAAAhDegAA
+						Bj+AAAAAAAAHPhmZmgAAAAhDegAA
 						AAAACQAAAAAAAAAKP4AAAAAAAAsA
 						AAAAAAAADD+AAAAAAAANAAAAAAAA
-						AA5A4AAAAAAAD0CAAAAAAAAQAAAA
-						AAAAABFCi0RhAAAAEj+AAAAAAAAT
-						QOAAAAAAABRFDKAAAAAAFUBAAAAA
-						AAAWAAAAAAAAABcAAAAAAAAAGAAA
-						AAAAAAAZAAAAAAAAABoAAAAAAAAA
-						G0PeOOQAAAAcRCaqqwAAAB1Eu4AA
-						AAAAHkUMoAAAAAAfR3//AAAAACAA
+						AA4AAAAAAAAAD0EQAAAAAAAQwMAA
+						AAAAABFEHDjyAAAAEkPQS+0AAAAT
+						RGpVawAAABREr8AQAAAAFUBAAAAA
+						AAAWAAAAAAAAABcAAAAAAAAAGEDg
+						AAAAAAAZQIAAAAAAABoAAAAAAAAA
+						G0JwAAAAAAAcQW9q9QAAAB1A4AAA
+						AAAAHkJKAj8AAAAfQEAAAAAAACAA
 						AAAAAAAAIQAAAAAAAAAiAAAAAAAA
-						ACMAAAAAAAAAJAAAAAAAAAAlQ944
-						5AAAACZEJqqrAAAAJ0S7gAAAAAAo
-						RQygAAAAAClHf/8AAAAAKgAAAAAA
-						AAArAAAAAAAAACwAAAAAAAAALQAA
-						AAAAAAAuAAAAAAAAAC9D3jjkAAAA
-						MEQmqqsAAAAxRLuAAAAAADJFDKAA
-						AAAAM0d//wAAAAA0AAAAAAAAADUA
+						ACNAQAAAAAAAJAAAAAAAAAAlRA4k
+						AgAAACZF91j8AAAAJ0EAAAAAAAAo
+						RpxAAAAAAClAQAAAAAAAKgAAAAAA
+						AAArAAAAAAAAACwAAAAAAAAALT+A
+						AAAAAAAuwJxLZAAAAC9CTUvbAAAA
+						MD9///wAAAAxQAAAAAAAADJFDKAA
+						AAAAM0BAAAAAAAA0AAAAAAAAADUA
 						AAAAAAAANgAAAAAAAAA3AAAAAAAA
 						ADgAAAAAAAAAOUPeOOQAAAA6RCaq
 						qwAAADtEu4AAAAAAPEUMoAAAAAA9
@@ -1834,7 +1886,7 @@
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>name</key>
-						<string>Untitled</string>
+						<string>tone1</string>
 						<key>subtype</key>
 						<integer>1953330036</integer>
 						<key>type</key>
