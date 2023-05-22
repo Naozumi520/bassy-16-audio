@@ -25,7 +25,7 @@ Recorded using iPhone 13 Pro
 **Write Access unlock on Root Volume and SIP disable are required**  
 Follow this article: [Follow this article: How to Enable Write Access on Root Volume on macOS Big Sur and Later](https://elitemacx86.com/threads/how-to-enable-write-access-on-root-volume-on-macos-big-sur-and-later.652/)
 
-> **If your machine is MacBookPro16,4 instead of `Mac-E1008331FDC96864`, use `Mac-A61BADE1FDAD7B05` as target folder as they are not the same**
+> **If your machine is MacBookPro16,4 not MacBookPro16,1: instead of `Mac-E1008331FDC96864`, use `Mac-A61BADE1FDAD7B05` as target folder as they are not the same**
 
 1. Download and unzip this repository. 📁  
 2. Copy builtin_speaker_out_general.austrip to /Users/naozumi/livemount/System/Library/Audio/Tunings/Mac-E1008331FDC96864/DSP/Strips and replace the old file. 🔄  
