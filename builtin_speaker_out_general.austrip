@@ -18,31 +18,35 @@
 						<integer>4294901760</integer>
 						<key>data</key>
 						<data>
-						AAAAAAAAAAAAAAAsAAAAAAAAAAAA
-						AAABAAAAAAAAAAJAoAAAAAAAA8DP
-						6gAAAAAEAAAAAAAAAAVBoAAAAAAA
-						BgAAAAAAAAAHP4AAAAAAAAg/gAAA
-						AAAACUISNIIAAAAKwPzY4AAAAAs/
-						DK0dAAAADD+AAAAAAAANQvxKCQAA
-						AA7AfY4AAAAAD0AipNgAAAAQP4AA
-						AAAAABFDMX5MAAAAEsCcqyAAAAAT
-						P4AAAAAAABQ/gAAAAAAAFUOyoBQA
-						AAAWAAAAAAAAABdAMqNlAAAAGAAA
-						AAAAAAAZRHoAAAAAABoAAAAAAAAA
-						Gz+AAAAAAAAcAAAAAAAAAB1E+gAA
-						AAAAHgAAAAAAAAAfP4AAAAAAACAA
-						AAAAAAAAIUWcQAAAAAAiAAAAAAAA
-						ACM/gAAAAAAAJAAAAAAAAAAlRhxA
-						AAAAACYAAAAAAAAAJz+AAAAAAAAo
-						AAAAAAAAAClGHEAAAAAAKgAAAAAA
-						AAArP4AAAA==
+						AAAAAAAAAAAAAAA4AAAAAAAAAAAA
+						AAABP4AAAAAAAAIAAAAAAAAAAwAA
+						AAAAAAAEwX4AAAAAAAUAAAAAAAAA
+						BgAAAAAAAAAHAAAAAAAAAAg/gAAA
+						AAAACQAAAAAAAAAKRZxABgAAAAtG
+						Wr//AAAADD4ZmZkAAAANwGAAAAAA
+						AA4+a4UgAAAAD0GGZmUAAAAQPseu
+						FQAAABFB5MzMAAAAEkIP//8AAAAT
+						AAAAAAAAABQ9TMzNAAAAFUE/9o0A
+						AAAWPUzMzQAAABdD2YACAAAAGEUc
+						gXYAAAAZQT/uagAAABrCyAAAAAAA
+						GwAAAAAAAAAcAAAAAAAAAB0AAAAA
+						AAAAHgAAAAAAAAAfAAAAAAAAACA/
+						gAAAAAAAIQAAAAAAAAAiRZxABgAA
+						ACNGW0esAAAAJD4ZmZkAAAAlwGAA
+						AAAAACY+a4UgAAAAJ0GGZmUAAAAo
+						PseuFQAAAClB5MzMAAAAKkIP//8A
+						AAArAAAAAAAAACw9TMzNAAAALUFA
+						AAAAAAAuPUzMzQAAAC9D2YACAAAA
+						MEUcQAYAAAAxQT/uagAAADLCyAAA
+						AAAAMwAAAAAAAAA0AAAAAAAAADUA
+						AAAAAAAANgAAAAAAAAA3AAAAAA==
 						</data>
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>name</key>
-						<string>buzzWoof</string>
+						<string>rb_lowflow_v11_3_2_22</string>
 						<key>subtype</key>
-						<integer>1651866219</integer>
+						<integer>1718382455</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 						<key>version</key>
@@ -51,13 +55,13 @@
 					<key>bypass</key>
 					<integer>0</integer>
 					<key>displayname</key>
-					<string>Buzz</string>
+					<string>AULowFlow</string>
 					<key>unit</key>
 					<dict>
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>subtype</key>
-						<integer>1651866219</integer>
+						<integer>1718382455</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 					</dict>
@@ -1175,11 +1179,11 @@
 						<data>
 						AAAAAAAAAAAAAAAuAAAAAD+AAAAA
 						AAABAAAAAAAAAALBQAAAAAAAA0BA
-						AAAAAAAEQKAAAAAAAAVBQAAAAAAA
+						AAAAAAAEQMAAAAAAAAVBIAAAAAAA
 						BkBAAAAAAAAHQAAAAAAAAAhAAAAA
-						AAAACUEQAAAAAAAKP4AAAAAAAAtD
-						AgAAAAAADEFQAAAAAAANQAAAAAAA
-						AA4/gAAAAAAADwAAAAAAAAAQwsgA
+						AAAACUEQAAAAAAAKP4AAAAAAAAtC
+						oAAAAAAADEFQAAAAAAANQEAAAAAA
+						AA5B8AAAAAAADwAAAAAAAAAQwsgA
 						AAAAABEAAAAAAAAAEkEgAAAAAAAT
 						AAAAAAAAABRBIAAAAAAAFUGgAAAA
 						AAAWwsgAAAAAABcAAAAAAAAAGD+A
@@ -1196,7 +1200,7 @@
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>name</key>
-						<string>ldnm_1_7_21</string>
+						<string>ldnm</string>
 						<key>subtype</key>
 						<integer>1818521197</integer>
 						<key>type</key>
@@ -2625,17 +2629,17 @@
 						<key>data</key>
 						<data>
 						AAAAAAAAAAAAAAAQAAAAAD+AAAAA
-						AAABP4AAAAAAAAJC1ZdRAAAAA0DC
-						5ywAAAAEQy+WHQAAAAVAf//4AAAA
-						BkCaI4AAAAAHQIAAAAAAAAgAAAAA
-						AAAACUBAAAAAAAAKAAAAAAAAAAsA
-						AAAAAAAADECTMzMAAAANAAAAAAAA
+						AAABP4AAAAAAAAJC7051AAAAA0Dc
+						EcgAAAAEQ5adJQAAAAVAomjiAAAA
+						BkCiQfoAAAAHv4AAAAAAAAgAAAAA
+						AAAACUBAAAAAAAAKAAAAAAAAAAvA
+						EiwAAAAADEADoGYAAAANAAAAAAAA
 						AA4AAAAAAAAADwAAAAA=
 						</data>
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>name</key>
-						<string>VirtBassRB</string>
+						<string>VBass_1_18_22</string>
 						<key>subtype</key>
 						<integer>1986159982</integer>
 						<key>type</key>
