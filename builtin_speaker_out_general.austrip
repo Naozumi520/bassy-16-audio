@@ -18,35 +18,31 @@
 						<integer>4294901760</integer>
 						<key>data</key>
 						<data>
-						AAAAAAAAAAAAAAA4AAAAAAAAAAAA
-						AAABP4AAAAAAAAIAAAAAAAAAAwAA
-						AAAAAAAEwX4AAAAAAAUAAAAAAAAA
-						BgAAAAAAAAAHAAAAAAAAAAg/gAAA
-						AAAACQAAAAAAAAAKRZxABgAAAAtG
-						Wr//AAAADD4ZmZkAAAANwGAAAAAA
-						AA4+a4UgAAAAD0GGZmUAAAAQPseu
-						FQAAABFB5MzMAAAAEkIP//8AAAAT
-						AAAAAAAAABQ9TMzNAAAAFUE/9o0A
-						AAAWPUzMzQAAABdD2YACAAAAGEUc
-						gXYAAAAZQT/uagAAABrCyAAAAAAA
-						GwAAAAAAAAAcAAAAAAAAAB0AAAAA
-						AAAAHgAAAAAAAAAfAAAAAAAAACA/
-						gAAAAAAAIQAAAAAAAAAiRZxABgAA
-						ACNGW0esAAAAJD4ZmZkAAAAlwGAA
-						AAAAACY+a4UgAAAAJ0GGZmUAAAAo
-						PseuFQAAAClB5MzMAAAAKkIP//8A
-						AAArAAAAAAAAACw9TMzNAAAALUFA
-						AAAAAAAuPUzMzQAAAC9D2YACAAAA
-						MEUcQAYAAAAxQT/uagAAADLCyAAA
-						AAAAMwAAAAAAAAA0AAAAAAAAADUA
-						AAAAAAAANgAAAAAAAAA3AAAAAA==
+						AAAAAAAAAAAAAAAsAAAAAAAAAAAA
+						AAABAAAAAAAAAAJAoAAAAAAAA8DP
+						6gAAAAAEAAAAAAAAAAVBoAAAAAAA
+						BgAAAAAAAAAHP4AAAAAAAAg/gAAA
+						AAAACUISNIIAAAAKwPzY4AAAAAs/
+						DK0dAAAADD+AAAAAAAANQvxKCQAA
+						AA7AfY4AAAAAD0AipNgAAAAQP4AA
+						AAAAABFDMX5MAAAAEsCcqyAAAAAT
+						P4AAAAAAABQ/gAAAAAAAFUOyoBQA
+						AAAWAAAAAAAAABdAMqNlAAAAGAAA
+						AAAAAAAZRHoAAAAAABoAAAAAAAAA
+						Gz+AAAAAAAAcAAAAAAAAAB1E+gAA
+						AAAAHgAAAAAAAAAfP4AAAAAAACAA
+						AAAAAAAAIUWcQAAAAAAiAAAAAAAA
+						ACM/gAAAAAAAJAAAAAAAAAAlRhxA
+						AAAAACYAAAAAAAAAJz+AAAAAAAAo
+						AAAAAAAAAClGHEAAAAAAKgAAAAAA
+						AAArP4AAAA==
 						</data>
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>name</key>
-						<string>rb_lowflow_v11_3_2_22</string>
+						<string>buzzWoof</string>
 						<key>subtype</key>
-						<integer>1718382455</integer>
+						<integer>1651866219</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 						<key>version</key>
@@ -55,13 +51,13 @@
 					<key>bypass</key>
 					<integer>0</integer>
 					<key>displayname</key>
-					<string>AULowFlow</string>
+					<string>Buzz</string>
 					<key>unit</key>
 					<dict>
 						<key>manufacturer</key>
 						<integer>1634758764</integer>
 						<key>subtype</key>
-						<integer>1718382455</integer>
+						<integer>1651866219</integer>
 						<key>type</key>
 						<integer>1635083896</integer>
 					</dict>
