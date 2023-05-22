@@ -4,7 +4,7 @@
 As the repo named, this is **better-16-audio**, a heavy tweaked audio config to have even better speaker quality on 16inch MacBook Pro (2019/2020) under macOS.
 
 ## How is this "better"?
-I understand that the term "better" may be subjective. This configuration primarily focuses on boosting the speaker's bass, creating a powerful and immersive audio experience. Althoguh I think it's pretty cool, but it's worth noting that for some users, this might result in speaker distortion at higher volumes. So, whether or not this improves your user experience depends on your personal preferences.
+I understand that the term "better" may be subjective. This configuration primarily focuses on boosting the speaker's bass, creating a powerful and immersive audio experience. Although I think it's pretty cool, but it's worth noting that for some users, this might result in speaker distortion at higher volumes. So, whether or not this improves your user experience depends on your personal preferences.
 
 ## How do I managed to improve the speaker config?
 Apple's audio configuration files are stored in plist format but are encrypted and use a base64-like encoding, making them unreadable. Only Apple knows what the actual values mean. However, Apple's code quality restrictions on employees ensure that these configurations are clean and consistent. By comparing different models' configurations, we can identify which ones are better and more recent.
