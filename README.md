@@ -17,8 +17,8 @@ You can see that "Untitled" isn't look as good as "vareq_4_22_21", which should 
 ## Preview
 
 <div style="border: 1px solid black; padding: 10px;">
-  <p>https://github.com/Naozumi520/bassy-16-audio/assets/52615455/0b927424-4db5-4fa8-88d2-433172cfbdc1</p>
-  <p>https://github.com/Naozumi520/bassy-16-audio/assets/52615455/e1f37edc-62c5-4876-ba16-39b8f39bc5af</p>
+  <p>https://github.com/Naozumi520/bassy-16-audio/assets/52615455/7efc4753-a6d4-4048-8030-eea7e743e5a0</p>
+  <p>https://github.com/Naozumi520/bassy-16-audio/assets/52615455/f8efe796-2022-438d-a7ce-5dce6236d5b7</p>
 </div>
 
 Recorded using iPhone 13 Pro
