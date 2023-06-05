@@ -1,9 +1,9 @@
-# Better-16-Audio 🎵
+# Bassy-16-Audio 🎵
 
 ## What's This
-As the repo named, this is **better-16-audio**, a heavy tweaked audio config to have even better speaker quality on 16inch MacBook Pro (2019/2020) under macOS.
+As the repo named, this is **bassy-16-audio**, a heavy tweaked audio config to have even better bass on the 16inch MacBook Pro (2019/2020) under macOS speaker output.
 
-## How is this "better"?
+## How "bassy" is this?
 I understand that the term "better" may be subjective. This configuration primarily focuses on boosting the speaker's bass, creating a powerful and immersive audio experience. Although I think it's pretty cool, but it's worth noting that for some users, this might result in speaker distortion at higher volumes. So, whether or not this improves your user experience depends on your personal preferences.
 
 ## How do I managed to improve the speaker config?
@@ -40,4 +40,4 @@ sudo bless --folder ~/livemount/System/Library/CoreServices --bootefi --create-s
 
 
 
-Enjoy your **enhanced audio** experience! 🎉
+Enjoy your **enhanced bass** experience! 🎉
