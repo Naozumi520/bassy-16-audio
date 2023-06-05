@@ -15,7 +15,11 @@ For example, take a look at this comparison between `Mac-E1008331FDC96864/DSP/St
 You can see that "Untitled" isn't look as good as "vareq_4_22_21", which should be a more recent Apple employee's achievement. By altering the encoded values and effect names, I've managed to edit the configuration to create Better-16-Audio! 🚀
 
 ## Preview
-https://github.com/Naozumi520/better-16-audio/assets/52615455/c7a796e5-04e1-4f50-b07a-3a8a75f1b5fb
+
+<div style="border: 1px solid black; padding: 10px;">
+  <p>https://github.com/Naozumi520/bassy-16-audio/assets/52615455/0b927424-4db5-4fa8-88d2-433172cfbdc1</p>
+  <p>https://github.com/Naozumi520/bassy-16-audio/assets/52615455/e1f37edc-62c5-4876-ba16-39b8f39bc5af</p>
+</div>
 
 Recorded using iPhone 13 Pro
 
