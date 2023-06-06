@@ -33,6 +33,7 @@ Follow this article: [Follow this article: How to Enable Write Access on Root Vo
 
 1. Download and unzip this repository. 📁  
 2. Copy builtin_speaker_out_general.austrip to /Users/naozumi/livemount/System/Library/Audio/Tunings/Mac-E1008331FDC96864/DSP/Strips and replace the old file. 🔄  
+3. Copy builtin_speaker_out.dspg to /Users/naozumi/livemount/System/Library/Audio/Tunings/Mac-E1008331FDC96864/DSP/Graphs and replace the old file. 🔄  
 4. Copy cfg19152-aumx-3dem-appl.aupreset to /Users/naozumi/livemount/System/Library/Audio/Tunings/CFG19152/AU and replace the old file. 🔄  
 5. Save the changes by using the following command: 🖥️
 
