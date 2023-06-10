@@ -18,61 +18,6 @@
 						<integer>4294901760</integer>
 						<key>data</key>
 						<data>
-						AAAAAAAAAAAAAAA4AAAAAAAAAAAA
-						AAABP4AAAAAAAAIAAAAAAAAAAwAA
-						AAAAAAAEwX4AAAAAAAUAAAAAAAAA
-						BgAAAAAAAAAHAAAAAAAAAAg/gAAA
-						AAAACQAAAAAAAAAKRZxABgAAAAtG
-						Wr//AAAADD4ZmZkAAAANwGAAAAAA
-						AA4+a4UgAAAAD0GGZmUAAAAQPseu
-						FQAAABFB5MzMAAAAEkIP//8AAAAT
-						AAAAAAAAABQ9TMzNAAAAFUE/9o0A
-						AAAWPUzMzQAAABdD2YACAAAAGEUc
-						gXYAAAAZQT/uagAAABrCyAAAAAAA
-						GwAAAAAAAAAcAAAAAAAAAB0AAAAA
-						AAAAHgAAAAAAAAAfAAAAAAAAACA/
-						gAAAAAAAIQAAAAAAAAAiRZxABgAA
-						ACNGW0esAAAAJD4ZmZkAAAAlwGAA
-						AAAAACY+a4UgAAAAJ0GGZmUAAAAo
-						PseuFQAAAClB5MzMAAAAKkIP//8A
-						AAArAAAAAAAAACw9TMzNAAAALUFA
-						AAAAAAAuPUzMzQAAAC9D2YACAAAA
-						MEUcQAYAAAAxQT/uagAAADLCyAAA
-						AAAAMwAAAAAAAAA0AAAAAAAAADUA
-						AAAAAAAANgAAAAAAAAA3AAAAAA==
-						</data>
-						<key>manufacturer</key>
-						<integer>1634758764</integer>
-						<key>name</key>
-						<string>rb_lowflow_v11_3_2_22</string>
-						<key>subtype</key>
-						<integer>1718382455</integer>
-						<key>type</key>
-						<integer>1635083896</integer>
-						<key>version</key>
-						<integer>0</integer>
-					</dict>
-					<key>bypass</key>
-					<integer>0</integer>
-					<key>displayname</key>
-					<string>AULowFlow</string>
-					<key>unit</key>
-					<dict>
-						<key>manufacturer</key>
-						<integer>1634758764</integer>
-						<key>subtype</key>
-						<integer>1718382455</integer>
-						<key>type</key>
-						<integer>1635083896</integer>
-					</dict>
-				</dict>
-				<dict>
-					<key>aupreset</key>
-					<dict>
-						<key>DefaultAudioChannelLayout</key>
-						<integer>4294901760</integer>
-						<key>data</key>
-						<data>
 						AAAAAAAAAAAAAAAsAAAAAAAAAAAA
 						AAABAAAAAAAAAAJAoAAAAAAAA8DP
 						6gAAAAAEAAAAAAAAAAVBoAAAAAAA
