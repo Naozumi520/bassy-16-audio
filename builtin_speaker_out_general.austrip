@@ -1288,6 +1288,61 @@
 				<dict>
 					<key>aupreset</key>
 					<dict>
+						<key>DefaultAudioChannelLayout</key>
+						<integer>4294901760</integer>
+						<key>data</key>
+						<data>
+						AAAAAAAAAAAAAAA4AAAAAAAAAAAA
+						AAABP4AAAAAAAAIAAAAAAAAAAwAA
+						AAAAAAAEAAAAAAAAAAVAgAAAAAAA
+						BgAAAAAAAAAHAAAAAAAAAAg/gAAA
+						AAAACQAAAAAAAAAKRXoAAAAAAAtF
+						+gAAAAAADD7BFhsAAAANQXgcvAAA
+						AA4/B3aIAAAAD0IgAAAAAAAQP1Xk
+						+gAAABFCpRMiAAAAEkKz//8AAAAT
+						AAAAAAAAABQAAAAAAAAAFUFAAAAA
+						AAAWAAAAAAAAABdDFfz5AAAAGES0
+						F4oAAAAZAAAAAAAAABrB8PYEAAAA
+						GwAAAAAAAAAcAAAAAAAAAB0AAAAA
+						AAAAHgAAAAAAAAAfAAAAAAAAACA/
+						gAAAAAAAIQAAAAAAAAAiRXoAAAAA
+						ACNF+gAAAAAAJD7BFhsAAAAlQXgc
+						vAAAACY/B3aIAAAAJ0IgAAAAAAAo
+						P1Xk+gAAAClCpRMiAAAAKkKz//8A
+						AAArAAAAAAAAACwAAAAAAAAALUFA
+						AAAAAAAuAAAAAAAAAC9DFfz5AAAA
+						MES0F4oAAAAxAAAAAAAAADLB8PYE
+						AAAAMwAAAAAAAAA0AAAAAAAAADUA
+						AAAAAAAANgAAAAAAAAA3AAAAAA==
+						</data>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>name</key>
+						<string>LowFlow</string>
+						<key>subtype</key>
+						<integer>1718382455</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+						<key>version</key>
+						<integer>0</integer>
+					</dict>
+					<key>bypass</key>
+					<integer>0</integer>
+					<key>displayname</key>
+					<string>LowFlow</string>
+					<key>unit</key>
+					<dict>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>subtype</key>
+						<integer>1718382455</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>aupreset</key>
+					<dict>
 						<key>classname</key>
 						<string>dbgain</string>
 						<key>data</key>
