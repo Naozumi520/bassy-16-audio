@@ -41,8 +41,6 @@ Follow this article: [Follow this article: How to Enable Write Access on Root Vo
 sudo bless --folder ~/livemount/System/Library/CoreServices --bootefi --create-snapshot
 ```
 
-6. Reset PRAM and SMC
-
 
 
 Enjoy your **enhanced bass** experience! 🎉
